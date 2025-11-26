@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -26,3 +27,6 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 =======
 # ToDo-List
 >>>>>>> 09f68582a8ed605ac8491eaa9f0492a55683f201
+=======
+
+>>>>>>> 05fb05a1c937ce2a60bea7ac00ddb47bdaf246e6
